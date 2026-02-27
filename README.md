@@ -1,9 +1,12 @@
-#<h1 align="center">Hi 👋, I'm Gaurav Bisht</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Bisht</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | AI Builder | Python Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-bisht-5ba740284/">
     <img src="https://img.shields.io/badge/LinkedIn-Gaurav_Bisht-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://mgx-6rwjytr4d8s.atoms.world/">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=Grav-D-Scientist-08&style=for-the-badge" />
 </p>
@@ -84,6 +87,9 @@ https://github.com/Grav-D-Scientist-08/Python_Error_Excute
 
 - 💼 LinkedIn:  
   https://www.linkedin.com/in/gaurav-bisht-5ba740284/
+
+- 🌐 Portfolio:  
+  https://mgx-6rwjytr4d8s.atoms.world/
 
 ---
 
