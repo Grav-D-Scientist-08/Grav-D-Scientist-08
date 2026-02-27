@@ -6,9 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Gaurav_Bisht-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://mgx-6rwjytr4d8s.atoms.world/">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Grav-D-Scientist-08&style=for-the-badge" />
+    
 </p>
 
 ---
