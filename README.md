@@ -39,6 +39,9 @@ https://github.com/Grav-D-Scientist-08/ai_topic_explainer_0.1
 ### 🐍 Python Error Fixer AI
 > Fix Python errors instantly using AI
 
+> Live App:
+https://pythonerrorexcute-eiqnmuzgjunlxaa3trghix.streamlit.app/
+
 💻 GitHub:  
 https://github.com/Grav-D-Scientist-08/Python_Error_Excute
 
